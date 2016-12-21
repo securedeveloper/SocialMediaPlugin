@@ -1,0 +1,2 @@
+[04-Aug-2015 04:21:53 America/Chicago] PHP Fatal error:  Class 'Instagram' not found in /home/demo/public_html/SocialMedia/instagram/instagram.config.php on line 3
+[04-Aug-2015 04:48:04 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/demo/public_html/SocialMedia/instagram/home.php on line 32
